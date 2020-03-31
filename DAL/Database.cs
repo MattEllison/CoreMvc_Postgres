@@ -1,7 +1,7 @@
 using System;
 using Npgsql;
 using Microsoft.AspNetCore.Mvc;
-namespace postgress.Database
+namespace core_auth.Database
 {
     public class Database
     {

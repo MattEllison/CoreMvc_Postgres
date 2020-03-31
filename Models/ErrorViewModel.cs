@@ -1,6 +1,6 @@
 using System;
 
-namespace postgress.Models
+namespace core_auth.Models
 {
     public class ErrorViewModel
     {

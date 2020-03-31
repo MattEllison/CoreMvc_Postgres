@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using Npgsql;
-using postgress.Models;
+using core_auth.Models;
 
-namespace postgress.Controllers
+namespace core_auth.Controllers
 {
     public class HomeController : Controller
     {
